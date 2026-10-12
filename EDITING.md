@@ -54,7 +54,6 @@ Edit `heroKicker` in `editable/wedding-data.js`:
 
 ### Media & Assets
 Replace files directly in `editable/assets/` or update `media`:
-- Intro video: `editable/assets/invite-open222.mp4` (configured as `media.introVideo`)
 - Door panel graphic: `editable/assets/door-panel.png`
 - Couple illustration: `editable/assets/couple.png`
 - Ambient music: `editable/assets/vaaroon.mp3`

@@ -157,7 +157,6 @@ window.WEDDING_DATA = {
   ],
 
   media: {
-    introVideo: "./editable/assets/invite-open222.mp4",
     doorPanel: "./editable/assets/door-panel.png",
     couple: "./editable/assets/couple.png",
     floralCorner: "./editable/assets/floral-corner.png",
